@@ -7,7 +7,7 @@ In the project I used addEventListerner on click and load events. By targeting Â
 
 
 
-![Questions](https://github.com/barcelo2/questions/blob/main/Questions/Screenshot%202022-03-25%20at%2019.17.04.png)
+![Video](https://github.com/barcelo2/video/blob/main/Video/Screenshot%202022-03-29%20at%2018.55.27.png)
 
 
 ## Built With
